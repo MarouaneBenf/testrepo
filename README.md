@@ -1,2 +1,2 @@
 # testrepo
-its for pyhtin project
+its for pyhton project
